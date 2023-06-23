@@ -7,7 +7,6 @@ today = date.today()
 start = '2020-01-26'
 index = yf.download("btc-usd", start=start, end=today)
 
-////
 
 rollingDays=50
 
@@ -20,7 +19,7 @@ plt.legend(loc = 'upper right')
 plt.title('Index RAW price')
 plt.show()
 
-//
+
 
 maxi = index['Close'].rolling(rollingDays).max()
 mini = index['Close'].rolling(rollingDays).min()
