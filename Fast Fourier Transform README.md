@@ -1,6 +1,7 @@
 # Stock Price Data Filtering using Fast Fourier Transform (FFT)
 
 This Python code utilizes the Fast Fourier Transform (FFT) algorithm to filter stock price data. It uses the `yfinance` library to download historical stock price data from Yahoo Finance and `matplotlib` library for data visualization.
+![image](https://github.com/jamiePDunne/pythonMisc/assets/83908748/f15fb686-c6cf-40cc-9381-3e98eb55a2e5)
 
 ## Dependencies
 
