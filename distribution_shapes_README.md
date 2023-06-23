@@ -2,6 +2,9 @@
 
 This is a simple Python script that demonstrates how to generate random data from different probability distributions and plot their histograms using the `seaborn` and `matplotlib` libraries.
 
+![image](https://github.com/jamiePDunne/pythonMisc/assets/83908748/a1c67d43-d56b-4a8c-b7fe-849262d8afaf)
+
+
 ## Dependencies
 - `seaborn`
 - `matplotlib`
