@@ -2,6 +2,7 @@
 # Stock Index Analysis
 
 This Python code enables the analysis of stock index prices using Bollinger Bands and Simple Moving Averages (SMA). It retrieves historical price data for two stock indices from the Yahoo Finance API and plots the price data along with the SMA, upper Bollinger Band (BB), and lower Bollinger Band.
+![image](https://github.com/jamiePDunne/pythonMisc/assets/83908748/9103769b-e71c-4bdc-967d-19da017a7d64)
 
 ## Dependencies
 
