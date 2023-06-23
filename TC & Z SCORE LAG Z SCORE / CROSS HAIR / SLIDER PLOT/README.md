@@ -2,7 +2,7 @@
 # BTC-USD Performance and Z-Score Analysis
 
 This Python code demonstrates the calculation of the Z-Score for BTC-USD performance using historical price data obtained from the Yahoo Finance API. The Z-Score is a statistical measure that indicates how many standard deviations an observation or data point deviates from the mean of a distribution.
-![Uploading image.png…]()
+
 
 ## Dependencies
 
