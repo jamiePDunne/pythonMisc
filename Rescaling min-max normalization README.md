@@ -1,6 +1,7 @@
 # Index Price Analysis
 
 This Python code performs an analysis of index prices using historical data obtained from Yahoo Finance. It utilizes the `matplotlib` and `yfinance` libraries for data visualization and retrieving stock price data, respectively.
+![image](https://github.com/jamiePDunne/pythonMisc/assets/83908748/5200d26a-ba3f-4795-b74a-6b75e8ecd4e3)
 
 ## Dependencies
 
