@@ -2,6 +2,9 @@
 
 This Python code analyzes the BTC-USD price data using Simple Moving Averages (SMA) and identifies the "Death Cross" pattern. It utilizes the `yfinance` library to fetch historical price data from Yahoo Finance and `matplotlib` library for plotting.
 
+![image](https://github.com/jamiePDunne/pythonMisc/assets/83908748/de21b2c7-a165-426b-9dac-5ab956604d19)
+
+
 ## Dependencies
 
 Before running the code, ensure that you have the following dependencies installed:
