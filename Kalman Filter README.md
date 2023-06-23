@@ -1,6 +1,7 @@
 # Stock Price Analysis with Kalman Filter Signal
 
 This Python code utilizes the Kalman filter to generate a trading signal based on stock price data. It fetches historical price data for the ^GDAXI index from Yahoo Finance using the `yfinance` library. The Kalman filter is then applied to estimate the underlying trend of the stock price, and a trading signal is generated based on the relationship between the stock price and the estimated trend.
+![image](https://github.com/jamiePDunne/pythonMisc/assets/83908748/d66db027-acfe-44bc-b081-af6eec6b07bf)
 
 ## Dependencies
 
