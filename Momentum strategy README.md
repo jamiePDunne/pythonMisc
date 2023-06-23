@@ -1,6 +1,7 @@
 # Momentum Trading Strategy Backtest
 
 This Python code performs a backtest of a momentum trading strategy using historical data from Yahoo Finance. It utilizes the `pandas`, `yfinance`, and `plotly` libraries for data manipulation, downloading stock data, and visualizations, respectively.
+![image](https://github.com/jamiePDunne/pythonMisc/assets/83908748/c1242d2d-55ee-4996-afc1-1628be1ec541)
 
 ## Dependencies
 
